@@ -1,0 +1,6 @@
+~PRAGMA COMPLEX 00
+// This is a comment. ignore me.
+00C WRITE >> CONSOLE "Hello World"
+10 WRITE >> CONSOLE "Hey user! I'm a default program."
+20 CALL 00C
+30 END
